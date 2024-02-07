@@ -1,5 +1,5 @@
-Nama  : Muhamad Hanif Nurrifky Wicaksono
-NPM   : 2206818846
+Nama  : Muhamad Hanif Nurrifky Wicaksono<br>
+NPM   : 2206818846<br>
 
 ## REFLEKSI
 
